@@ -1,0 +1,27 @@
+# MPLAB X
+*.X/
+build/
+dist/
+nbproject/private/
+nbproject/Package-*.bash
+*.X.production.hex
+*.X.debug.hex
+*.o
+*.d
+*.p1
+*.sdb
+*.pre
+*.lst
+*.sym
+*.cof
+*.elf
+*.map
+funclist
+
+# Python (tools/)
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
