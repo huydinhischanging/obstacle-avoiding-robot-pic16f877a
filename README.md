@@ -1,5 +1,7 @@
 # Obstacle-Avoiding Robot — PIC16F877A
 
+**Demo video (original course version on hardware):** https://youtu.be/u_v7gP3tTI4
+
 Bare-metal firmware in C for an autonomous obstacle-avoiding robot, built for
 *Embedded Real-time Systems* at International University, VNU-HCM.
 
